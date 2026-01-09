@@ -1,181 +1,106 @@
-# Research Roadmap
-A complete research roadmap.
+# Research Foundations Framework
 
-# Lecture 1: Research Problem Identification & Problem Statement Documentation
+A structured, standards-driven framework for **professional research problem identification**, literature analysis, and problem statement formulation.
 
-## Objective
-The objective of this lecture is to train students to **systematically identify a research problem** by analyzing existing research work, identifying limitations, and converting those limitations into a **clear, researchable problem statement**.
-
-This step lays the **foundation of the entire research**, and any mistake here will propagate throughout the project.
+This repository enforces **research discipline** and eliminates common academic and industry research failures such as vague topics, weak literature reviews, and unjustified assumptions.
 
 ---
 
-## 1. Domain, Field, and Topic Selection
+## Why This Repository Exists
+Most research projects fail **before implementation** due to:
+- Poorly defined problems
+- Superficial paper reading
+- No limitation-to-problem mapping
+- Hidden assumptions
+- Trend-driven topic selection
 
-### 1.1 Domain Selection
-**Domain** refers to the broad area of research.
-
-**Examples:**
-- Artificial Intelligence
-- Cybersecurity
-- Healthcare Informatics
-- Financial Technology
-- Smart Cities
-
-> ❗ A domain must be broad enough to contain multiple research problems but specific enough to be meaningful.
-
-**Selected Domain:**  
-`<Enter Domain Name>`
+This repository exists to **prevent those failures at the root**.
 
 ---
 
-### 1.2 Field Selection
-**Field** is a specialized sub-area within the selected domain.
+## Who This Is For
+This framework is designed for:
+- Universities and colleges
+- Research labs and incubation centers
+- Internship and training programs
+- Early-stage researchers and PhD scholars
+- Industry teams doing applied R&D
 
-**Examples (AI Domain):**
-- Machine Learning
-- Natural Language Processing
-- Computer Vision
-- Reinforcement Learning
-
-**Selected Field:**  
-`<Enter Field Name>`
+> ⚠️ This is **not a tutorial repository**. Users are expected to read, analyze, and justify decisions with evidence.
 
 ---
 
-### 1.3 Topic Selection
-A **topic** is a focused research area within a field.
+## What This Repository Covers (Current Scope)
 
-**Examples (Field: Machine Learning):**
-- Phishing URL Detection
-- Fake News Classification
-- Crop Disease Detection
-- Credit Risk Assessment
-
-**Selected Topic:**  
-`<Enter Topic Name>`
-
-> ⚠️ Topic selection should be driven by **research gaps**, not trends or buzzwords.
+- Domain, field, and topic selection
+- Structured literature review methodology
+- Research paper comparison matrix
+- Limitation identification and prioritization
+- Research problem statement formulation
+- Assumptions documentation
+- Data source justification
+- Future scope definition
 
 ---
 
-## 2. Research Paper Study
+## How to Use This Repository
 
-A minimum of **5–6 recent research papers (last 5 years)** must be studied to understand:
-- Existing solutions
-- Methods used
-- Datasets
-- Limitations
-
----
-
-## 3. Literature Review Summary Table
-
-| Sr No | Paper Title | Problem Solved | Method Used | Dataset Used | Limitations |
-|------|------------|---------------|-------------|---------------|--------------|
-| 1 | Paper-1 Title | Description | Algorithm / Model | Dataset Name | Limitation |
-| 2 | Paper-2 Title | Description | Algorithm / Model | Dataset Name | Limitation |
-| 3 | Paper-3 Title | Description | Algorithm / Model | Dataset Name | Limitation |
-| 4 | Paper-4 Title | Description | Algorithm / Model | Dataset Name | Limitation |
-| 5 | Paper-5 Title | Description | Algorithm / Model | Dataset Name | Limitation |
-
-> ❗ This table is mandatory. Without it, **problem formulation is invalid**.
+1. Start with **Lecture-1_Problem_Statement_With_Index.md**
+2. Fill every section — skipping is not allowed
+3. Base all claims on reviewed literature
+4. Get the document reviewed before implementation
+5. Use this document as a reference for all future research phases
 
 ---
 
-## 4. Limitation Analysis
+## Research Rules (Non-Negotiable)
 
-### 4.1 Listing Identified Limitations
-From the reviewed papers, common disadvantages and limitations are identified.
+- No generic problem statements
+- No buzzword-driven topics
+- No missing assumptions
+- No implementation without problem validation
+- No conclusions without evidence
 
-**Examples:**
-- Poor performance on unseen data
-- High false positive rate
-- Requires large labeled datasets
-- Not suitable for real-time use
-- Language or region dependent
-- High computational cost
-
-**Identified Limitations:**
-1. `<Limitation 1>`
-2. `<Limitation 2>`
-3. `<Limitation 3>`
+Violation of these rules results in **research rejection**.
 
 ---
 
-### 4.2 Selected Limitation
-From the listed limitations, **one or two critical limitations** are selected to define the research problem.
+## Standards Alignment
 
-**Selected Limitation:**  
-`<Clearly mention the limitation you are targeting>`
-
-> ⚠️ Trying to solve multiple unrelated limitations usually results in weak research.
-
----
-
-## 5. Problem Statement Definition
-
-### 5.1 Research Problem Statement
-The problem statement must be:
-- Specific
-- Measurable
-- Based on a real limitation
-- Research-oriented (not implementation-only)
-
-**Problem Statement:**  
-
+This framework aligns with expectations from:
+- IEEE reviewers
+- Springer / Elsevier journals
+- Institutional research boards
+- Industry R&D review committees
 
 ---
 
-## 6. Future Scope
+## Contribution Guidelines
 
-Future scope defines how the proposed research can be extended.
+Contributions must:
+- Improve rigor, clarity, or enforceability
+- Be evidence-backed
+- Follow formal research language
 
-**Examples:**
-- Testing on real-world datasets
-- Scaling the solution for large environments
-- Integrating additional data sources
-- Improving adaptability across domains
-- Deploying as a real-time system
-
-**Future Scope:**
-- `<Future enhancement 1>`
-- `<Future enhancement 2>`
-
-> ❗ Future scope should be realistic and logically derived from the work.
+Low-effort, opinion-based, or motivational content will be rejected.
 
 ---
 
-## 7. Assumptions
-
-Assumptions explicitly state the conditions under which the research is conducted.
-
-**Examples:**
-- Input data is assumed to be correctly labeled
-- Data distribution remains stable
-- External factors are ignored
-- System operates in a controlled environment
-
-**Research Assumptions:**
-1. `<Assumption 1>`
-2. `<Assumption 2>`
-3. `<Assumption 3>`
-
-> ⚠️ Hidden assumptions are a major reason for paper rejection.
+## License
+Educational and research use only.  
+Commercial or institutional reuse requires permission.
 
 ---
 
-## 8. Data Source Used
+## Maintainer
+**Maintainer:** `<Institution / Lab Name>`  
+**Role:** Research Governance & Review  
 
-Clearly specify the dataset(s) used in the research.
+---
 
-### 8.1 Dataset Details
-- **Dataset Name:** `<Name>`
-- **Source:** `<Kaggle / UCI / GitHub / Organization>`
-- **Type:** `<Structured / Unstructured>`
-- **Size:** `<Number of records>`
-- **Access Type:** `<Public / Private>`
+## Versioning
+- **Version:** 1.0  
+- **Status:** Stable  
+- **Last Updated:** `<DD-MM-YYYY>`
 
-### 8.2 Justification of Dataset
-Explain **why this dataset is suitable** for the research problem.
-
+---

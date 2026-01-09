@@ -6,6 +6,11 @@ This repository enforces **research discipline** and eliminates common academic 
 
 ---
 
+## Index
+1. [Problem Statement Analysis](https://github.com/veershah-sh/research-roadmap/blob/main/1_problem_statement_analysis.md)
+
+---
+
 ## Why This Repository Exists
 Most research projects fail **before implementation** due to:
 - Poorly defined problems
@@ -102,8 +107,3 @@ Commercial or institutional reuse requires permission.
 - **Version:** 1.0  
 - **Status:** Stable  
 - **Last Updated:** `09/01/2026`
-
----
-
-## Index
-1. [Problem Statement Analysis](https://github.com/veershah-sh/research-roadmap/blob/main/1_problem_statement_analysis.md)

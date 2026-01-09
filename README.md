@@ -93,7 +93,7 @@ Commercial or institutional reuse requires permission.
 ---
 
 ## Maintainer
-**Maintainer:** `<Institution / Lab Name>`  
+**Maintainer:** `[Vinix Infotech Pvt. Ltd.](https://vinixinfotech.com)`  
 **Role:** Research Governance & Review  
 
 ---
@@ -101,6 +101,6 @@ Commercial or institutional reuse requires permission.
 ## Versioning
 - **Version:** 1.0  
 - **Status:** Stable  
-- **Last Updated:** `<DD-MM-YYYY>`
+- **Last Updated:** `09/01/2026`
 
 ---

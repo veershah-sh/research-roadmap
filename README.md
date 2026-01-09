@@ -93,7 +93,7 @@ Commercial or institutional reuse requires permission.
 ---
 
 ## Maintainer
-**Maintainer:** [Vinix Infotech Pvt. Ltd.](https://vinixinfotech.com)
+**Maintainer:** [Vinix Infotech Pvt. Ltd.](https://vinixinfotech.com) <br>
 **Role:** Research Governance & Review  
 
 ---

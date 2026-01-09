@@ -45,7 +45,7 @@ This framework is designed for:
 
 ## How to Use This Repository
 
-1. Start with **Lecture-1_Problem_Statement_With_Index.md**
+1. Start with **[Lecture-1_Problem_Statement_With_Index.md](https://github.com/veershah-sh/research-roadmap/blob/main/1_problem_statement_analysis.md)**
 2. Fill every section — skipping is not allowed
 3. Base all claims on reviewed literature
 4. Get the document reviewed before implementation
@@ -104,3 +104,6 @@ Commercial or institutional reuse requires permission.
 - **Last Updated:** `09/01/2026`
 
 ---
+
+## Index
+1. [Problem Statement Analysis](https://github.com/veershah-sh/research-roadmap/blob/main/1_problem_statement_analysis.md)
